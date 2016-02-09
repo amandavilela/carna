@@ -1,0 +1,27 @@
+{
+  "name": "carna-theme",
+  "description": "Carna is a simple, clean and lightweight WordPress Theme for bloggers and writters",
+  "main": "index.js",
+  "authors": [
+    "Amanda Vilela"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "wordpress",
+    "theme",
+    "for",
+    "writters",
+    "minimal",
+    "wordpress",
+    "themes"
+  ],
+  "homepage": "https://github.com/amandavilela/carna",
+  "moduleType": [],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
